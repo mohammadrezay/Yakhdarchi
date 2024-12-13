@@ -1,4 +1,4 @@
-# Yakhdarchi
+# Yakhdarchi.php
 https://quera.org/problemset/3429?tab=description
 <?php
 $T = (int)readline('Enter an integer: ');
